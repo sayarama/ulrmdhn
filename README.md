@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulrmdhn&label=Profile%20views&color=0e75b6&style=flat" alt="ulrmdhn" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NextJs and TailwindCss** 
 
 - 👨‍💻 All of my projects are available at [ulrmdhn.github.io](ulrmdhn.github.io)
 
